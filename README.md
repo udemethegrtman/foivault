@@ -1,4 +1,4 @@
-foivault
-========
+FOIVAULT
+===============
 
-Foivault Requests Platform
+FOIA request platform
