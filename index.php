@@ -51,7 +51,7 @@ $requests->execute();
                         </script>
                     </form>
                     </div>
-                    <a href="#content"><img src="/transparencyhub/assets/img/down.png"></a>
+                    <a href="#content"><img src="./assets/img/down.png"></a>
                 </div>
             </div>
 
@@ -101,7 +101,7 @@ $requests->execute();
                     </form>
                 </div>
                 <div class="col-lg-5 col-lg-offset-2 col-sm-6">
-                    <img class="img-responsive" src="/transparencyhub/assets/img/lock3.png" alt="">
+                    <img class="img-responsive" src="./assets/img/lock3.png" alt="">
                 </div>
             </div>
 
@@ -124,8 +124,6 @@ $requests->execute();
                         <li><a href="https://twitter.com/foivaultnig" class="btn btn-default btn-lg"><i class="fa fa-twitter fa-fw"></i> <span class="network-name">Twitter</span></a>
                         </li>
                         <li><a href="https://www.facebook.com/foiavault" class="btn btn-default btn-lg"><i class="fa fa-facebook fa-fw"></i> <span class="network-name">Facebook</span></a>
-                        </li>
-                        <li><a href="https://github.com/foiavault/transparencyhub" class="btn btn-default btn-lg"><i class="fa fa-github fa-fw"></i> <span class="network-name">Github</span></a>
                         </li>
                     </ul>
                 </div>
